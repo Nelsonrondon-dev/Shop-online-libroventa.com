@@ -89,7 +89,7 @@ Website Online shop  developed for the company Libroventa
 
 ## Screenshots Project
 
-![Landing](https://nelson-dev.tech/img/landing/Shop-online-libroventa.com)
+![Landing](https://nelson-dev.tech/img/landing/Shop-online-libroventa.com.png)
 
 ![cart](https://nelson-dev.tech/img/landing/Shop-online-cart-libroventa.com.png)
 
